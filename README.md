@@ -62,3 +62,11 @@
   __Raphael Honorio Mendes de Souza__;
     <br>
   __Thalles Ribeiro Santana__;
+  
+  <!--
+  
+ Núcleo Amazônia é um projeto feito como uma atividade pratica supervisionada no 1° semestre da faculdade, tendo o tema central como Assunto Regional.
+
+O objetivo do projeto desenvolvido, foi de mostrar curiosidades e informações relevantes sobre o bioma amazônico, além das informações sobre a fauna e flora presente, sendo tudo produzido em HTML e CSS, além de usar Bootstrap para facilitar o desenvolvimento do site.
+  
+  -->
