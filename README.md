@@ -1,6 +1,6 @@
 # 🌲 Núcleo Amazônia 🌲
 
-  *Project available in: <a href="https://thallesantana.github.io/Amazon_Biome/Pages/index.html">Núcleo Amazônia</a>
+  * Project available in: <a href="https://thallesantana.github.io/Amazon_Biome/Pages/index.html">Núcleo Amazônia</a>
 
 ## About the project
 
